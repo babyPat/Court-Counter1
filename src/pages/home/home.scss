@@ -1,3 +1,39 @@
-page-home {
+#teamLeft{
+
+    float: left;
+    border-right: 2px solid;
+    width: 50%;
+
+
+}
+
+#teamLeft ion-label{
+
+    font-size: 50px;
+    text-align: center;
+}
+
+
+
+#teamRight{
+
+   float: right;
+   width: 40%;
+}
+
+
+#teamRight ion-label{
+
+    font-size: 50px;
+    text-align: center;
+}
+
+#connect{
+
+    text-align: center;
+    padding: 25px;
+    position: relative;
+    top: 350px;
+    
 
 }
